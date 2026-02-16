@@ -220,7 +220,4 @@ And I have experience with
 ✅ Version Control - Git, Github, Gitlab, Bitbucket
 ## Get in touch
 
-skype: live:.cid.63b997fdf7455f36 <br/>
-Telegram: https://t.me/VisualVirtuoso1
-
 Thanks for your reading my profile.
